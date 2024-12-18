@@ -1,0 +1,23 @@
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\bin\Debug\net6.0-windows\CSharp George.exe
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\bin\Debug\net6.0-windows\CSharp George.deps.json
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\bin\Debug\net6.0-windows\CSharp George.runtimeconfig.json
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\bin\Debug\net6.0-windows\CSharp George.dll
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\bin\Debug\net6.0-windows\CSharp George.pdb
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.csproj.AssemblyReference.cache
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.addForm.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.editForm.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.FormMain.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.Form2.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.GroupF.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.Members.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\Databaze_osob.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.dll
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\refint\CSharp George.dll
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.pdb
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\CSharp George.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\CSharp_George\Databaze osob\obj\Debug\net6.0-windows\ref\CSharp George.dll
