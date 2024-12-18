@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
-MinimumVisualStudioVersion = 10.0.40219.1
+MinimumVisualStudioVersion = 10
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Databaze osob", "Databaze osob\Databaze osob.csproj", "{CB13861D-7EE6-468A-AC52-1B6CC108C727}"
 EndProject
 Global
